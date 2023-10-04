@@ -1,5 +1,17 @@
 # Introduccio_PHP ITICBCN
+
+## Exercici 1
+
+Al primer exercici hem de gestionar un restaurant on tenim 10 taules
+amb un màxim de 5 comensals per taula i volem que cada cop que obrim la pàgina
+hi hagi una quantitat aleatòria de comensals per cada taula. 
+Hem fet un array de 10 taules opn en cada una hem posat un número aleatori amb
+el [rand()](https://www.php.net/manual/en/function.rand.php). 
+![Foto exercici 1](img/Exercici1.png)
+
+
 ## Exercici 2
+
 El **exercici 2** ens planteja el problema de tenir un hotel que te 5 pisos, i cadascun en te 10 habitacions, que aquestes tenen fins a 4 habitants maxims. Aquest exercici, en el meu cas, no vaig acabar el exercici a temps, pero tinc el plantejament de com es faria sense codi.
 Els pasos que jo seguiria serien els seguents:
 1. El plantejament es crear dos arrays, o sigui un array d'arrays. 
@@ -8,3 +20,4 @@ Els pasos que jo seguiria serien els seguents:
 Aqui es veu la imatge del codi funcionant, de Joel.
 ! [Primera Part Exercici2] (img/PrimerPartEx2)
 ! [Segona Part Exercici2] (img/SegonaPartEx2)
+

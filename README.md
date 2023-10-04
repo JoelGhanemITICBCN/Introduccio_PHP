@@ -18,6 +18,5 @@ Els pasos que jo seguiria serien els seguents:
 2. En tema codi, es crear un 'for' i a dins unaltre 'for' per donar-hi un numero random del 0 al 4, per a que a cada habitacio se li doni un numero de habitants aleatori.
 3. En el moment de fer el echo, es faria dins de dos for each. Primer aniriem a per les plantes, i dins el for each de les habitacions, amb un element de lista amb un echo de php.
 Aqui es veu la imatge del codi funcionant, de Joel.
-! [Primera Part Exercici2] (img/PrimerPartEx2)
-! [Segona Part Exercici2] (img/SegonaPartEx2)
-
+![Foto exercici 2 Primera Part](img/PrimeraPartEx2.png)
+![Foto exercici 2 Segona Part](img/SegonaPartEx2.png)
